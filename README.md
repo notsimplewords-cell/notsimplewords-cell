@@ -1,4 +1,4 @@
-![tenna-dancing-with-cane-deltarune-chapter-3](https://github.com/user-attachments/assets/9ef5c7a4-1666-428c-a8ff-90d31a0f6515)
+![chara-undertale](https://github.com/user-attachments/assets/50201e16-55d1-40b3-a5f0-13618c2af244)
 
 <marquee behavior="scroll" direction="left">💻 Python, Django, Веб-разработка и Автоматизация процессов!</marquee>
 
