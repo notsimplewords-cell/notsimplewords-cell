@@ -1,6 +1,4 @@
-<img width="88" height="146" alt="image" src="https://github.com/user-attachments/assets/19d65b5f-4475-4090-ab4c-99d870d313ff" /># Привет, я Pavel! 👋
-
-![Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![tenna-dancing-with-cane-deltarune-chapter-3](https://github.com/user-attachments/assets/9ef5c7a4-1666-428c-a8ff-90d31a0f6515)
 
 <marquee behavior="scroll" direction="left">💻 Python, Django, Веб-разработка и Автоматизация процессов!</marquee>
 
