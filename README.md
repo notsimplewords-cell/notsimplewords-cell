@@ -9,7 +9,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img width="88" height="146" alt="image" src="https://github.com/user-attachments/assets/a892b2db-01e1-4ce1-9291-e0646e17cd65" />
+<div class="tenor-gif-embed" data-postid="3918706462813164065" data-share-method="host" data-aspect-ratio="0.60274" data-width="100%"><a href="https://tenor.com/view/tenna-dance-funny-deltarune-deltarune-chapter-3-tenna-dance-gif-3918706462813164065">Tenna Dance Funny Sticker</a>from <a href="https://tenor.com/search/tenna-stickers">Tenna Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ## 📊 Статистика GitHub
