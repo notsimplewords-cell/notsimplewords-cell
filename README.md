@@ -1,4 +1,4 @@
-# Привет, я Pavel! 👋
+<img width="88" height="146" alt="image" src="https://github.com/user-attachments/assets/19d65b5f-4475-4090-ab4c-99d870d313ff" /># Привет, я Pavel! 👋
 
 ![Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
@@ -9,7 +9,8 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Animated Python](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+<img width="88" height="146" alt="image" src="https://github.com/user-attachments/assets/a892b2db-01e1-4ce1-9291-e0646e17cd65" />
+
 
 ## 📊 Статистика GitHub
 ![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true&hide=prs&title_color=ff69b4&icon_color=00ffff&text_color=ffffff&bg_color=0d1117)
