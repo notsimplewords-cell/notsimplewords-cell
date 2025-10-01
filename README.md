@@ -5,4 +5,3 @@
 
 ### 🦷 Dentistry Management System
 [![Dentistry](https://github-readme-stats.vercel.app/api/pin/?username=notsimplewords-cell&repo=Dentistry&theme=radical)](https://github.com/notsimplewords-cell/Dentistry)
-*Система управления стоматологической клиникой*
