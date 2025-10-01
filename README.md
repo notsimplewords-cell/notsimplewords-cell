@@ -2,4 +2,8 @@
 ![tenna-dance-funny](https://github.com/user-attachments/assets/46b8854e-e8fa-488a-bfbf-0062666a591e)
 
 ## 📁 Мои проекты
-[![Dentistry](https://github-readme-stats.vercel.app/api/pin/?username=notsimplewords&repo=Project1&theme=radical)]([https://github.com/notsimplewords/Dentistry](https://github.com/notsimplewords-cell/Dentistry))
+
+### 🦷 Dentistry Management System
+[![Dentistry](https://github-readme-stats.vercel.app/api/pin/?username=notsimplewords-cell&repo=Dentistry&theme=radical)](https://github.com/notsimplewords-cell/Dentistry)
+*Система управления стоматологической клиникой*
+)
